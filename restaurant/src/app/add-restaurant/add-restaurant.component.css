@@ -1,0 +1,21 @@
+.jumbotron {
+    background-size: 100% auto;
+    min-width: 300px;
+    margin: 5px auto;
+    display: flex;
+    justify-content: center;
+    margin: 5px 5px 5px 5px;
+    border: 0.08em solid black;
+  }
+  h1 {
+    font-size: 6em;
+    color: #484949;
+  }
+  
+  #socDesc {
+    color: black;
+  }
+  
+  body {
+    min-width: 300px;
+  }

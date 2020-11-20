@@ -1,0 +1,27 @@
+{
+  "resto": [
+    {
+      "name": "Khandesh",
+      "address": "Kotharud, Pune",
+      "mobile": "9561502238",
+      "email": "mahiretushar@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Amit",
+      "address": "Kotharud depot, Pune-38",
+      "mobile": "9900990099",
+      "email": "abc@gmail.com",
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "name": "munna",
+      "password": "pqr123",
+      "mobile": "9080706050",
+      "email": "abc@gmail.com",
+      "id": 1
+    }
+  ]
+}

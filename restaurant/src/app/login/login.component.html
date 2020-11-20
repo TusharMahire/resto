@@ -1,0 +1,11 @@
+<form class="container">
+    <div class="formGroup">
+        <label for="exampleInputEmail">Email Address</label>
+        <input type="email" class="form-control" name="email" [(ngModel)]="email">
+    </div>
+    <div class="formGroup">
+        <label for="exampleInputPassword">Password</label>
+        <input type="password" class="form-control" name="password" [(ngModel)]="password">
+    </div>
+    <button type="submit" class="btn btn-primary" (click)="logIn()">Log In</button>
+</form>
